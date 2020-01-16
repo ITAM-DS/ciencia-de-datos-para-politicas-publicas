@@ -9,7 +9,7 @@ Durante el curso, estudiantes desarrollarán habilidades en formulación de prob
 
 | Adolfo De Unánue                              |
 |--------------------------------------------- |
-| [nanounanue](./imagenes/Adolfo De Unanue.jpg) |
+| ![nanounanue](./imagenes/Adolfo.jpg) |
 | Horas de oficina: Jue y Vie 12:00-13:15pm     |
 
 
